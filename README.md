@@ -13,11 +13,11 @@
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
 ## SKILLS :  
-Calculating Measures
-Defining KPIs
-Insight and Actions
-Insights and Actions
-Power BI
-Power BI Dashboard
-Self-Reflection
+Calculating Measures,
+Defining KPIs,
+Insight and Actions,
+Insights and Actions,
+Power BI,
+Power BI Dashboard,
+Self-Reflection.
  
